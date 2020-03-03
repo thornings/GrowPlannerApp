@@ -1,0 +1,2 @@
+# GrowPlannerApp
+Managing grow plan
